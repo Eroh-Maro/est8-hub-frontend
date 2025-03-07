@@ -1050,7 +1050,7 @@
   .heroText {
     width: 80%;
     /* Adjust the width as needed */
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-top: 0;
     font-weight: 500;
   
@@ -1058,16 +1058,16 @@
   .heroSubText {
     width: 70%;
     /* Adjust the width as needed */
-    margin-bottom: 0;
+    margin-bottom: 10px;
     margin-top: 0;
-    font-size: 0.5rem;
+    font-size: 1rem;
     font-weight: 100;
     /* or any specific weight like 700 */
 
   }
   
   .heroSubText2 {
-    width: 70%;
+    width: 80%;
     /* Adjust the width as needed */
     margin-top: 0;
     margin-bottom: 0;
@@ -1254,7 +1254,7 @@
 
 
 .subscribe {
-  height: 6vh;
+  height: 5vh;
   border-radius: 20px;
   color: white;
   width: 15vw;
