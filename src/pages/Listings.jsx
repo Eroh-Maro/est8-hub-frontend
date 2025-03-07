@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { FaHouseChimney } from "react-icons/fa6";
-import HouseCard from './houses/HouseCard';
+import HouseCard from './houses/HouseCard.jsx';
 import { useFetchAllHousesQuery } from '../redux/features/houses/houses.Api.js';
 
 

@@ -1,10 +1,7 @@
 import React from 'react'
-import { useParams } from "react-router-dom"
 import { Link } from 'react-router-dom'
 
-
 const HouseCard = ({house, cardClass}) => {
-  const { id } = useParams();
 
   if (!house) {
     return <div>Loading...</div>; // or handle the undefined case appropriately
@@ -16,7 +13,7 @@ const HouseCard = ({house, cardClass}) => {
   return (
     <div className={`card ${cardClass}`}>
       <Link to={`/houses/${house?._id}`}>
-
+      <img src={house.coverImage} alt="housepics" />
       </Link>
       <div className='cardText'>
       <Link to={`/houses/${house?._id}`}>
@@ -33,4 +30,4 @@ const HouseCard = ({house, cardClass}) => {
   )
 }
 
-export default HouseCard
+export default HouseCard;

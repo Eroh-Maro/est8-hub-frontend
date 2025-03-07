@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import HouseCard from '../pages/houses/HouseCard';
+import HouseCard from '../pages/houses/HouseCard.jsx';
 import { useFetchAllHousesQuery } from '../redux/features/houses/houses.Api.js';
 
 
