@@ -16,7 +16,7 @@ const HouseCard = ({house, cardClass}) => {
   return (
     <div className={`card ${cardClass}`}>
       <Link to={`/houses/${house?._id}`}>
-      <img src={house.coverImage} alt="" />
+
       </Link>
       <div className='cardText'>
       <Link to={`/houses/${house?._id}`}>
