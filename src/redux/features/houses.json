@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Single story home",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/ID12237_1.jpg?v=1738100198&width=800",
+        "price": 25000000,
+        "noRooms": 2,
+        "description": "A beautiful house with a garden.",
+        "location": "Ozoro"
+    },
+    {
+        "name": "Staff quarters",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/2_d418b7f6-bc25-46d7-b5cc-c68da55c093d.jpg?v=1736976073&width=600",
+        "price": 30000000,
+        "noRooms": 4,
+        "description": "A spacious house with a pool.",
+        "location": "Warri"
+    },
+    {
+        "name": "2 in one bath house",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/2Room1Bathhouseplan-ID12111-Image5.jpg?v=1732910784&width=600",
+        "price": 20000000,
+        "noRooms": 2,
+        "description": "A cozy house in a quiet neighborhood.",
+        "location": "Asaba"
+    },
+    {
+        "name": "Cedarwood House",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/2-Storey2RoomHousePlan-ID22203-Image2.jpg?v=1732395970&width=600",
+        "price": 45000000,
+        "noRooms": 5,
+        "description": "A luxurious house with modern amenities.",
+        "location": "Ughelli"
+    },
+    {   
+        "name": "Hazelwood Home",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/ID12234-Image1.jpg?v=1730845826&width=600",
+        "price": 35000000,
+        "noRooms": 4,
+        "description": "A charming house with a large backyard.",
+        "location": "Abraka"
+    },
+    {
+        "name": "Country house",
+        "coverImage": "https://www.maramani.com/cdn/shop/products/3BedroomsCountryHouse-ID13407-Perspective_2.jpg?v=1663750279&width=600",
+        "price": 28000000,
+        "noRooms": 3,
+        "description": "A well-maintained house in a great location.",
+        "location": "Ozoro"
+    },
+    {
+        "name": "Lavender Dream",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/ID14517-Image_1_debb60b1-e598-4595-b182-1cb3ff1f7311.jpg?v=1732957726&width=600",
+        "price": 32000000,
+        "noRooms": 4,
+        "description": "A modern house with an open floor plan.",
+        "location": "Warri"
+    },
+    {
+        "name": "Aspen Grove",
+        "coverImage": "https://www.maramani.com/cdn/shop/products/3BedroomBungalowWithGarage-ID13403-Perspective_2.jpg?v=1715327400&width=600",
+        "price": 22000000,
+        "noRooms": 3,
+        "description": "A lovely house with a front porch.",
+        "location": "Asaba"
+    },
+    {
+        "name": "Pavillion house",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/2_550e02dd-1bd2-451a-81ae-eec8b5dd4c58.jpg?v=1736975808&width=600",
+        "price": 40000000,
+        "noRooms": 5,
+        "description": "A spacious house with a finished basement.",
+        "location": "Ughelli"
+    },
+    {
+        "name": "Sunset Haven",
+        "coverImage": "https://www.maramani.com/cdn/shop/products/LowBudgetModern3BedroomHouseDesign-ID13207-Perspective_3.jpg?v=1663319958&width=600",
+        "price": 27000000,
+        "noRooms": 3,
+        "description": "A charming house with a fireplace.",
+        "location": "Abraka"
+    },
+    {
+        "name": "Pineview Estate",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/ID24414-Image02_8692a055-939f-446d-b935-df35d387673c.jpg?v=1732889699&width=600",
+        "price": 31000000,
+        "noRooms": 4,
+        "description": "A beautiful house with a sunroom.",
+        "location": "Ozoro"
+    },
+    {
+        "name": "Maple Ridge",
+       "coverImage": "https://www.maramani.com/cdn/shop/files/ID22401image3.jpg?v=1730919799&width=600",
+        "price": 23000000,
+        "noRooms": 2,
+        "description": "A cozy house with a fenced yard.",
+        "location": "Warri"
+    },
+    {
+        "name": "Brookside Cottage",
+        "coverImage": "https://www.maramani.com/cdn/shop/products/ModernSmallHouseDesign-ID13209-Perspective_1.jpg?v=1663320326&width=600",
+        "price": 29000000,
+        "noRooms": 3,
+        "description": "A well-kept house with a garage.",
+        "location": "Asaba"
+    },
+    {
+        "name": "Cobblestone Court",
+        "coverImage": "https://www.maramani.com/cdn/shop/files/ID24317Image01.jpg?v=1732888947&width=600",
+        "price": 34000000,
+        "noRooms": 4,
+        "description": "A modern house with a gourmet kitchen.",
+        "location": "Ughelli"
+    },
+    {
+        "name": "Oakwood Manor",
+        "coverImage": "https://www.maramani.com/cdn/shop/products/Panoramic3BedroomHouse-ID13219-Perspective_2.jpg?v=1663322696&width=600",
+        "price": 26000000,
+        "noRooms": 3,
+        "description": "A lovely house with hardwood floors.",
+        "location": "Abraka"
+    }
+]
