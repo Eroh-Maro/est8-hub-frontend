@@ -1,14 +1,13 @@
 import React, { useEffect } from "react"
 import { Outlet } from "react-router-dom"
 import './App.css'
-import Footer from "./components/footer.jsx";
 import Navbar from "./components/Navbar.jsx";
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 import ScrollToTop from "./pages/ScrollToTop";
 import { Provider } from 'react-redux';
 import { store } from './redux/store';
-
+import Footer from "../components/Footer.jsx";
 
 
 function App() {
