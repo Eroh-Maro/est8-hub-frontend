@@ -1,7 +1,7 @@
 import React from 'react'
 import hero from "../assets/hero.avif"
-import HeroSection from '../components/HeroSection'
-import BodySection from '../components/bodySection'
+import HeroSection from '../components/HeroSection.jsx'
+import BodySection from '../components/BodySection2.jsx'
 import Navbar from '../components/Navbar'
 import Suggestions from '../components/Suggestions'
 
