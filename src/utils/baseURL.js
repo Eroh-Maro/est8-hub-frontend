@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://localhost:5000"
+    return "https://est8-hub-backend.vercel.app"
 }
 
-export default getBaseUrl
+export default getBaseUrl;
