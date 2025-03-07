@@ -7,7 +7,7 @@ import AOS from 'aos';
 import ScrollToTop from "./pages/ScrollToTop";
 import { Provider } from 'react-redux';
 import { store } from './redux/store';
-import Footer from "../components/Footer.jsx";
+import Footer from "./components/Footer2.jsx";
 
 
 function App() {
